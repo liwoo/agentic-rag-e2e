@@ -1,0 +1,487 @@
+{
+  "results": [
+    {
+      "filterItemMetaData": "5 December 2025, Education",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 10" }],
+      "title": "London Metropolitan University",
+      "createdDateTime": "2025-12-16T19:17:04.157Z",
+      "id": 83409,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-448604-b3l1/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant requested information from London Metropolitan University about equality, diversity and inclusion. The Commissioner’s decision is that the public authority failed to respond to the request within 20 working days and has therefore breached section 10 of FOIA. The public authority must provide a substantive response to the request in accordance with its obligations under FOIA. ",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "5 December 2025, Local government",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "EIR 5(2)" }],
+      "title": "London Borough of Bromley",
+      "createdDateTime": "2025-12-16T18:21:46.79Z",
+      "id": 83396,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-434426-g3q1/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant requested information from London Borough of Bromley about a 1 metre strip of hard surfacing. The Commissioner’s decision is that the public authority failed to respond to the request within 20 working days and has therefore breached section 10 of FOIA. The public authority must provide a substantive response to the request in accordance with its obligations under FOIA. ",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "5 December 2025, Central government, Education",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 36(2)(b)(ii)" },
+        { "status": "Not upheld", "section": "FOI 36(2)(c)" },
+        { "status": "Upheld", "section": "FOI 17(1)" }
+      ],
+      "title": "Sport England",
+      "createdDateTime": "2025-12-16T18:05:34.283Z",
+      "id": 83390,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-389475-g6w6/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant submitted a meta request to Sport England; that is, a request about a previous request. Sport England withheld the information under sections 41 and 43(2) of FOIA. It has subsequently advised that it considers that sections 40(2), 36(2)(b) and 36(2)(c) are also engaged. These exemptions concern information provided in confidence, commercial interests, personal data and prejudice to the effective conduct of public affairs, respectively. The Commissioner’s decision is that the withheld information engages sections 36(2)(b)(ii) and 36(2)(c) of FOIA. Sport England’s late application of these exemptions and section 40(2) means that its refusal notice didn’t comply with section 17(1) but the Commissioner doesn’t require it to take any steps. ",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "5 December 2025, Police and criminal justice, Other",
+      "filterItemDecisions": [
+        { "status": "Upheld", "section": "FOI 10" },
+        { "status": "Upheld", "section": "FOI 22" }
+      ],
+      "title": "Police Federation of England and Wales",
+      "createdDateTime": "2025-12-15T18:20:50.02Z",
+      "id": 83328,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-387659-h4v0/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested information about staff management structure and salaries within the public authority. The Police Federation of England (“the Federation”) provided an organisational chart but declined to provide specific job titles below the level of director and specific salaries, citing section 40(2) (personal data) and section 22 (information intended for future publication). The Commissioner’s decision is that the Police Federation is not entitled to rely on section 22 to withhold the information. The Commissioner requires the Federation to disclose the withheld information.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "5 December 2025, Central government",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 36" },
+        { "status": "Not upheld", "section": "FOI 43" }
+      ],
+      "title": "Department for Science, Innovation and Technology (DSIT)",
+      "createdDateTime": "2025-12-15T18:16:10.44Z",
+      "id": 83327,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-357236-d1q7/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested information relating to ministerial meetings between the Department for Science, Innovation and Technology (DSIT) and Amazon (and/or Amazon Web Services) that related to an £8 billion investment by Amazon Web Services. DSIT disclosed some information but refused to provide the remainder citing section 36 (effective conduct of public affairs), section 40 (personal data) and section 43 (commercial interests). It maintained this at internal review. The complainant did not dispute the use of section 40 in this case. The Commissioner’s decision is that DSIT is entitled to rely on sections 36 and 43 as its bases for refusing to provide the withheld information. The Commissioner does not require further steps.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "5 December 2025, Central government",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 17(3)" }],
+      "title": "Cabinet Office",
+      "createdDateTime": "2025-12-15T17:49:23.623Z",
+      "id": 83312,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-437880-n9q0/",
+      "contentTypeAlias": "filterItem",
+      "description": "The public authority has failed to complete its public interest test considerations within a reasonable time in accordance with its obligations under FOIA. The Commissioner requires it to provide a substantive response to the request within 30 calendar days in accordance with its obligations under FOIA.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "5 December 2025, Local government",
+      "filterItemDecisions": [
+        { "status": "Upheld", "section": "FOI 1(1)(a)" },
+        { "status": "Not upheld", "section": "FOI 1(1)(b)" },
+        { "status": "Upheld", "section": "FOI 10" },
+        { "status": "Upheld", "section": "FOI 17" }
+      ],
+      "title": "Manchester City Council",
+      "createdDateTime": "2025-12-15T17:35:30.067Z",
+      "id": 83308,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-384032-c9t6/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant submitted a four part request for information held by Manchester City Council (the council) about waste collection at the block of flats where they reside. The council provided information in response to part 1 and 2 of the request. It also confirmed it was withholding information under section 40 of FOIA (third party personal information), but did not specify what part of the request this applied to. At the internal review stage, the council provided the complainant with some additional information, and subsequently confirmed that this was all of the information it had previously considered to be exempt from disclosure under section 40. The Commissioner considers that there was one objective reading of the request, and that the council interpreted the request in line with this objective reading. The Commissioner is also satisfied that, on the balance of probabilities, the council has provided all of the information held that falls within scope of the one objective reading of the request and has complied with section 1(1)(b). However, as the council failed to confirm in both its initial response, and in its internal review response, whether it held, or did not hold, information falling within scope of parts 3 and 4 of the complainant’s request, the Commissioner has found a breach of section 1(1)(a) of FOIA. In addition, as the council failed to provide any information in response to the request, or issue a refusal notice citing its reliance on section 40 to withhold part of the information, within 20 working days, the Commissioner has found a breach of section 10, and section 17, respectively.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Police and criminal justice",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 31(3)" }],
+      "title": "Chief Constable Merseyside Police",
+      "createdDateTime": "2025-12-16T19:28:29.357Z",
+      "id": 83414,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-373929-q9g9/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant made a request for police information relating to a deceased individual. Merseyside Police refused to confirm or deny whether the information was held under section 31(3), section 38(2) and section 40(5) of FOIA. The Commissioner’s decision is that Merseyside Police was entitled to neither confirm nor deny whether the requested information is held under section 31(3) of FOIA. The Commissioner does not require Merseyside Police to take any steps as a result of this decision.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Police and criminal justice",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 10(1)" }],
+      "title": "Chief Constable West Midlands Police",
+      "createdDateTime": "2025-12-16T19:26:07.7Z",
+      "id": 83413,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-415695-r7g8/",
+      "contentTypeAlias": "filterItem",
+      "description": "The Commissioner’s decision is that the public authority breached section 10(1) of FOIA by failing to provide a response within 20 working days. ",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Local government",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 1" },
+        { "status": "Not upheld", "section": "FOI 21" }
+      ],
+      "title": "Ledbury Town Council",
+      "createdDateTime": "2025-12-16T19:24:00.823Z",
+      "id": 83412,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-383874-y1c7/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested various information about compliance with legislation. Ledbury Town Council disclosed some of the information and directed the complainant to where the remainder was published on its website. The Commissioner’s decision is that the Council has provided all held information and is entitled to rely upon section 21 (Information accessible to the applicant by other means) for that which is already published on its website. The Commissioner does not require further steps.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Local government",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 41(1)" },
+        { "status": "Upheld", "section": "FOI 17(1)" }
+      ],
+      "title": "Lancashire County Council",
+      "createdDateTime": "2025-12-16T19:15:09.47Z",
+      "id": 83408,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-378873-h4g9/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant submitted a request to Lancashire County Council (the council) for information in relation to a deceased relative.\nThe Commissioner’s decision is that the council was entitled to rely upon section 41(1) (information provided in confidence) of FOIA to withhold the requested information. However, in failing to issue an appropriate refusal notice confirming the exemption it ultimately came to rely upon, within the statutory timescale, the council has breached section 17(1) of FOIA.\nThe Commissioner does not require further steps, as a result of the notice.\n",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Private companies, Other",
+      "filterItemDecisions": [{ "status": "Not upheld", "section": "FOI 1" }],
+      "title": "Post Office Limited",
+      "createdDateTime": "2025-12-16T19:10:57.933Z",
+      "id": 83406,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-374336-h8v9/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant requested information relating to advertisements and a plan for post office branches. The Post Office refused to provide the plan under section 43(2) FOIA and stated information on the adverts was not held. The Commissioner’s decision is that the Post Office was entitled to rely on section 43(2) to withhold the area plan and correctly stated that the advertisements were no longer held. The Commissioner does not require further steps.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Police and criminal justice",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 10" }],
+      "title": "Chief Constable Humberside Police",
+      "createdDateTime": "2025-12-16T18:15:17.71Z",
+      "id": 83394,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-376654-n6d5/",
+      "contentTypeAlias": "filterItem",
+      "description": "A public authority will breach section 10 of FOIA if it fails to respond to a request within 20 working days. Based on evidence available to the Commissioner, the public authority failed to issue a substantive response to this request within 20 working days. Therefore, the Commissioner finds a breach of section 10. The Commissioner does not require further steps to be taken.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Local government",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "EIR 5(2)" }],
+      "title": "Ealing Council",
+      "createdDateTime": "2025-12-16T18:02:47.307Z",
+      "id": 83389,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-436108-t6r4/",
+      "contentTypeAlias": "filterItem",
+      "description": "A public authority will breach regulation 5(2) of the EIR if it fails to respond to a request within 20 working days. Based on evidence available to the Commissioner, by the date of this notice the public authority has not issued a substantive response to this request. Therefore, the Commissioner finds a breach of regulation 5(2). \nAs the public authority has failed to respond to this request within 20 working days, as specified in the EIR. The Commissioner requires it to provide the complainant with a substantive response to this request within 30 calendar days in accordance with its obligations under the EIR. \n",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Central government, Other",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 41(1)" }
+      ],
+      "title": "UK Sport",
+      "createdDateTime": "2025-12-15T18:24:14.45Z",
+      "id": 83329,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-381647-l2q7/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant requested information regrading communications between UK Sport (UKS) and the British Volleyball Federation (BVF). UKS refused the request citing sections 40(2) (personal information), section 41 (information provided in confidence) and section 43 (commercial interests) of FOIA. \nThe Commissioner’s decision is that UKS was entitled to refuse the information on the basis of section 41 of FOIA.\nNo steps are required as a result of this decision.\n",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Private companies, Other",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "EIR 12(5)(e)" },
+        { "status": "Upheld", "section": "EIR 14" },
+        { "status": "Upheld", "section": "EIR 5" }
+      ],
+      "title": "East West Railway Company Limited",
+      "createdDateTime": "2025-12-15T17:20:35.423Z",
+      "id": 83303,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-392630-v9t6/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested EWR to provide a breakdown of the current cost estimate for the EWR project. EWR disclosed some information but withheld the remainder citing regulation 12(5)(e) of the EIR (commercial interests). The Commissioner’s decision is that EWR is entitled to rely on regulation 12(5)(e) of the EIR. It however breached regulation 5 of the EIR by disclosing some of the requested information to the complainant late. It also breached regulation 5 and 14(2) by failing to respond to the request and issue a refusal notice within 20 working days of the receipt of the request. The Commissioner does not require further steps to be taken.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "4 December 2025, Local government",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 10" }],
+      "title": "London Borough Of Lewisham",
+      "createdDateTime": "2025-12-15T17:10:16.32Z",
+      "id": 83299,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-437372-p4c1/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant requested information regarding alternative provision for students in the academic years 2023-2024 and 2024-2025. London Borough of Lewisham failed to adequately respond to the request despite  chasers from the requester and the Commissioners intervention. \nA public authority will breach section 10 of FOIA if it fails to respond to a request within 20 working days. Based on the evidence available and the Commissioner intervention, by the date of this notice the public authority has not issued a substantive response to this request. Therefore the Commissioner finds a breach of section 10.\nThe public authority must provide a substantive response to the request in accordance with its obligations under FOIA.  \nThe public authority must take this step within 30 calendar days of the date of this decision notice. Failure to comply may result in the Commissioner making written certification of this fact to the High Court pursuant to section 54 of FOIA and may be dealt with as a contempt of court.\n",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Central government",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 40(1)" },
+        { "status": "Not upheld", "section": "FOI 40(2)" }
+      ],
+      "title": "Ministry of Housing, Communities and Local Government (Department for Levelling Up, Housing and Communities)",
+      "createdDateTime": "2025-12-16T19:19:40.757Z",
+      "id": 83410,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-378934-q7n1/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested information about interviewees for a public appointment. The Ministry of Housing, Communities and Local Government withheld the information under the exemptions provided by section 40(1) (personal data of the applicant), section 40(2) (personal data of third parties), and section 35(1)(a) (formulation or development of government policy) of FOIA. The Commissioner’s decision is that the MHCLG was entitled to withhold the information under section 40(1) and section 40(2) of FOIA. The Commissioner does not require further steps.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Central government",
+      "filterItemDecisions": [
+        { "status": "Upheld", "section": "FOI 24" },
+        { "status": "Upheld", "section": "FOI 31" },
+        { "status": "Upheld", "section": "FOI 38" },
+        { "status": "Upheld", "section": "FOI 40" }
+      ],
+      "title": "Foreign, Commonwealth and Development Office FCDO (previously FCO)",
+      "createdDateTime": "2025-12-16T18:52:22.55Z",
+      "id": 83404,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-388050-l7q4/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant submitted a request to the Foreign, Commonwealth & Development Office (FCDO) seeking communications (electronic or hard copy) relating to the (then) Duke of York’s visit to Kazakhstan in May 2008. The FCDO refused to confirm or deny whether it held information falling within the scope of this request on the basis of sections 24(2) (national security), 31(3) (law enforcement), 38(2) (health and safety) and 40(5B)(a)(i) (personal data) of FOIA. The Commissioner’s decision is that none of the exemptions cited by the FCDO provide a basis upon which it can refuse to confirm or deny whether it holds information falling within the scope of the request.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Health, Regulators",
+      "filterItemDecisions": [
+        { "status": "Upheld", "section": "FOI 31(2)(c)" }
+      ],
+      "title": "Care Quality Commission",
+      "createdDateTime": "2025-12-16T18:44:50.82Z",
+      "id": 83402,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-391127-s2s5/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested information about a specific nursing home. The Care Quality Commission (“the public authority”) disclosed some information but withheld the rest citing section 31(2)(c), by virtue of section 31(1)(g) (law enforcement) of FOIA. The Commissioner’s decision is that the exemption isn’t engaged. The Commissioner requires the public authority to take the following steps to ensure compliance with the legislation: disclose the withheld information.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Local government",
+      "filterItemDecisions": [
+        { "status": "Upheld", "section": "EIR 11(4)" },
+        { "status": "Partly upheld", "section": "EIR 12(4)(a)" },
+        { "status": "Upheld", "section": "EIR 12(4)(b)" },
+        { "status": "Upheld", "section": "EIR 14(2)" },
+        { "status": "Upheld", "section": "EIR 5(2)" }
+      ],
+      "title": "Derby City Council",
+      "createdDateTime": "2025-12-16T18:18:50.1Z",
+      "id": 83395,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-377138-h1c8/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant requested information from Derby City Council (“the Council”) about a footpath by the River Derwent. The Council provided some information, but stated that some information was not held. It also refused two parts of the request under regulation 12(4)(b) – manifestly unreasonable, on grounds of the burden of cost and time. The Commissioner is satisfied that the Council does not hold any information falling within the scope of part 3) of the request. However, he is not satisfied, on the balance of probabilities, that the Council does not hold more information relating to part 1). He has also found that the exception at regulation 12(4)(b) is not engaged, in respect of parts 2) and 4) of the request. Further, the Commissioner has found that the Council breached the requirements of regulations 5(2), 14(2) and 11(4): time for response and refusal notice, and time for reconsideration (internal review). The Commissioner requires the Council to take the following steps to ensure compliance with the legislation. Provide a fresh response to part 1) after carrying out further searches aimed at identifying all the information it holds within scope. The Commissioner stresses that the Council must consider the specific request and ensure that it responds. If the Council locates relevant information and decides to apply a new exception, it must clearly communicate this to the complainant. If, following searches, the Council wishes to maintain its position that no further information is held, it must be able to clearly demonstrate that it has performed adequate searches before arriving at this conclusion. Provide a fresh response to parts 2) and 4) of the request that does not rely on regulation 12(4)(b) of the EIR.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Local government",
+      "filterItemDecisions": [{ "status": "Upheld", "section": "FOI 10" }],
+      "title": "Epping Forest District Council",
+      "createdDateTime": "2025-12-15T18:36:21.577Z",
+      "id": 83330,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-433809-g1x8/",
+      "contentTypeAlias": "filterItem",
+      "description": "The Commissioner’s decision is that the public authority breached section 10 of FOIA by failing to provide a response within 20 working days. The Commissioner requires it to provide the complainant with a response to this request within 30 calendar days in accordance with its obligations under FOIA. ",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Mid and South Essex NHS Foundation Trust, Health",
+      "filterItemDecisions": [
+        { "status": "Upheld", "section": "FOI 17" },
+        { "status": "Partly upheld", "section": "FOI 40(5)" }
+      ],
+      "title": "Mid and South Essex NHS Foundation Trust",
+      "createdDateTime": "2025-12-15T18:13:31.43Z",
+      "id": 83326,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-412741-d6l0/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested information about any misconduct allegations, complaints or concerns following the appointment of a named individual. Mid and South Essex NHS Foundation Trust (‘the Trust’) relied on section 40(5B)(a)(i) of FOIA (personal information) to neither confirm nor deny holding the requested information. The Commissioner’s decision is that the Trust should confirm or deny whether it holds the requested information in questions one and three of the request. However, he finds that it was entitled to refuse to confirm whether or not it held the requested information for questions four and five on the basis of section 40(5B) of FOIA. He also finds that the Trust breached section 17 of FOIA by failing to provide a refusal within the statutory time limit. The Commissioner requires the Trust to take the following steps to ensure compliance with the legislation: Confirm or deny that it holds recorded information within scope of questions one and three of the request. If it does hold recorded information, it should either disclose it or provide a refusal notice in accordance with its obligations under section 17 of FOIA.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Central government",
+      "filterItemDecisions": [{ "status": "Not upheld", "section": "FOI 1" }],
+      "title": "British Broadcasting Corporation (BBC)",
+      "createdDateTime": "2025-12-15T17:51:31.67Z",
+      "id": 83321,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-442522-m6q6/",
+      "contentTypeAlias": "filterItem",
+      "description": "The Complainant requested information from the BBC about programmes it had broadcast that were critical of climate change. The BBC explained the information was covered by the derogation and excluded from FOIA.\nThe Commissioner’s decision is that this information was held by the BBC for the purposes of ‘journalism, art or literature’ and did not fall inside FOIA. He therefore upholds the BBC’s position and requires no remedial steps to be taken in this case.",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    },
+    {
+      "filterItemMetaData": "3 December 2025, Central government",
+      "filterItemDecisions": [
+        { "status": "Not upheld", "section": "FOI 12(1)" },
+        { "status": "Not upheld", "section": "FOI 16" }
+      ],
+      "title": "Secretary of State for the Home Department (Home Office)",
+      "createdDateTime": "2025-12-15T17:42:56.693Z",
+      "id": 83311,
+      "url": "/action-weve-taken/decision-notices/2025/12/ic-436489-h9y5/",
+      "contentTypeAlias": "filterItem",
+      "description": "The complainant has requested information in respect of applications for British citizenship for a specified period by a specific group of people. \nThe above public authority (“the Home Office”) relied on section 12(1) of FOIA (cost of compliance) to refuse the request.\nThe Commissioner’s decision is that the Home Office was entitled to rely on section 12(1) of FOIA to refuse the request. The Commissioner also finds that the public authority complied with its section 16 obligation to offer advice and assistance. \nThe Commissioner does not require further steps to be taken\n",
+      "theme": "red",
+      "order": [
+        "title",
+        "filterItemMetaData",
+        "description",
+        "filterItemDecisions"
+      ]
+    }
+  ],
+  "pagination": {
+    "totalResults": 24889,
+    "perPage": 25,
+    "showingPageNumber": 1,
+    "totalPages": 996,
+    "showingFrom": 1,
+    "showingTo": 25,
+    "hasMore": true
+  }
+}
