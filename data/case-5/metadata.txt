@@ -1,6 +1,0 @@
-Organisation: Department for Science, Innovation and Technology (DSIT)
-Date: 2025-12-05
-Sector: Central government
-Decision: FOI 36: Not upheld, FOI 43: Not upheld
-Abstract: The complainant has requested information relating to ministerial meetings between the Department for Science, Innovation and Technology (DSIT) and Amazon (and/or Amazon Web Services) that related to an £8 billion investment by Amazon Web Services. DSIT disclosed some information but refused to provide the remainder citing section 36 (effective conduct of public affairs), section 40 (personal data) and section 43 (commercial interests). It maintained this at internal review. The complainant did not dispute the use of section 40 in this case. The Commissioner’s decision is that DSIT is entitled to rely on sections 36 and 43 as its bases for refusing to provide the withheld information. The Commissioner does not require further steps.
-PDF URL: https://ico.org.uk/media2/01xl05mi/ic-357236-d1q7.pdf
