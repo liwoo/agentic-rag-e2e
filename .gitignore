@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Scraped Data
+/data/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
