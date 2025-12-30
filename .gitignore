@@ -9,7 +9,7 @@ venv/
 .env
 
 # Scraped Data
-/data/
+data/
 
 # IDE and OS files
 .vscode/
